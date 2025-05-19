@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/luisespinosaanke/luisespinosa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Dr. Luis Espinosa Anke
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
 
-### Markdown
+I am a senior lecturer in Computer Science and Informatics at Cardiff University. My research focuses on Natural Language Processing (NLP) with particular interests in computational semantics, knowledge acquisition, and applications of NLP in specialized domains.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Professional Experience
 
-```markdown
-Syntax highlighted code block
+**AMPLYFI**  
+*Current position*
 
-# Header 1
-## Header 2
-### Header 3
+**Lecturer in Computer Science and Informatics**  
+*Cardiff University*
 
-- Bulleted
-- List
+**Previous Experience:**  
+*Universitat Pompeu Fabra - Barcelona*
 
-1. Numbered
-2. List
+## Research Interests
 
-**Bold** and _Italic_ and `Code` text
+- Natural Language Processing
+- Computational Semantics
+- Knowledge Acquisition and Representation
+- Word Embeddings and Relation Vectors
+- Large language models
 
-[Link](url) and ![Image](src)
-```
+## Recent Publications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- paper 1
+- paper 2
 
-### Jekyll Themes
+[View my complete publication list on DBLP](https://dblp.org/pid/140/3490.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luisespinosaanke/luisespinosa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Achievements and Awards
 
-### Support or Contact
+- **Becarios Fundación "la Caixa" Scholarship** (2011)
+  - 2-year fully funded scholarship to pursue NLP graduate studies in two European universities
+- **Fulbright Scholarship** (2010)
+- **Best Dissertation Award** - Universitat d'Alacant (2008)
+  - MA Dissertation "Propuesta de Aplicación de Tecnología Web 2.0 para la Enseñanza de Inglés de la Ciencia y la Tecnología" - 10/10 score
+- **Erasmus Scholarship** - Ministerio de Educación, España (2004)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Recent Activities
+
+- activity 1
+- activity 2
+
+## Contact
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/luis-espinosa-anke-b4823921/) or view my publications on [Google Scholar](https://scholar.google.com/citations?user=e-zkTlgAAAAJ&hl=es&oi=ao).
